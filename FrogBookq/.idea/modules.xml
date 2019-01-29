@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FrogBook.iml" filepath="$PROJECT_DIR$/FrogBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrogBookq.iml" filepath="$PROJECT_DIR$/FrogBookq.iml" />
+    </modules>
+  </component>
+</project>

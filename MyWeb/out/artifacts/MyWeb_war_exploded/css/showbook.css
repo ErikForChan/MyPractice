@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+#displaybook{width: 100%;height: 320px;text-align: center;}
+#bookimage img{width: 200px;height: 220px;float: left;padding-left: 220px;}
+#bookinfo{width: 600px;height: 300px;float: left;margin-left: 20px;font-family: Microsoft YaHei;font-size: 13px;}
+#purchase input{width: 120px;height: 50px;}
+#purchase input:hover{cursor: hand;}

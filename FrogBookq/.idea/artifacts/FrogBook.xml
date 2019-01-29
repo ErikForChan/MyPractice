@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="FrogBook">
+    <output-path>$PROJECT_DIR$/out/artifacts/FrogBook</output-path>
+    <root id="root">
+      <element id="module-output" name="FrogBook" />
+    </root>
+  </artifact>
+</component>

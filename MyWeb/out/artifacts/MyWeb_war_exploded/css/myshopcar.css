@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+body{width: 100%;margin: 0 auto;}
+    
+    .top{width: 100%;height:130px;background-image: url(../images/shoptop.png);}
+    
+    .info{width: 100%;height: 30px;}
+
+
+    .time{width: 20%;height: 30px;text-align: right;float: left;font-family: Microsoft YaHei;font-size: 18px;color: white;}
+
+    .username{width: 30%;height: 30px;text-align: right;float: left;font-family: Microsoft YaHei;font-size: 20px;color: white;}
+
+    .shoppingcar{width: 10%;height: 30px;text-align: right;float: left;font-family: Microsoft YaHei;font-size: 20px;color: white;}
+
+    .login{width: 20%;height: 30px;text-align: right;float: left;}
+
+    .login input{width: 60px;height: 30px;background-color: #00a0e9;font-family: Microsoft YaHei;font-size: 18px;color: white;}
+
+    .register{width: 10%;height: 30px;text-align: center;float: left;}
+    
+    .logout{width: 10%;height: 30px;text-align: center;float: left;}
+    .logout input{width: 60px;height: 30px;background-color: #00a0e9;font-family: Microsoft YaHei;font-size: 18px;color: white;}
+    .register input{width: 60px;height: 30px;background-color: #00a0e9;font-family: Microsoft YaHei;font-size: 18px;color: white;}
+
+    .username a,.shoppingcar a{text-decoration: none;color:white;}
+    .username a:hover,.shoppingcar a:hover{text-decoration: underline;color: #b61d1d;}
+    .login input:hover,.register input:hover,.logout input:hover{background-color: #b61d1d;cursor: hand;}
+    
+    .washu{width: 100%;height:80px;margin-top: 20px;}
+
+    .logo{margin-left: 225px; width:200px; height: 80px; background-image: url(../images/MainLogo.png);float: left;}
+
+    .myshopcar{width: 735px;height: 80px;background-image: url(../images/myshopcar.png);float: left;}
+    
+    .bookimage{width: 100px;height: 120px;}
+    
+    .cash{width: 120px;height: 50px;padding-top: 30px;margin-left: 1103px;}
+    
+    .delete{width: 120px;height: 50px;}
+    
+    .book{font-family: Microsoft YaHei;font-size: 18px;color: #00a0e9;}
+    
+    .cash:hover,.delete:hover{cursor: hand;}

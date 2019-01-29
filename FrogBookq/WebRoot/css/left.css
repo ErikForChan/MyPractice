@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+ body{ margin:0px;padding: 0px;font-size: 12px;  }
+        #style1,#style2,#style3{margin-top: 20px;}
+        #style111{background-image: url("../images/left1.png");width: 200px;height: 30px; margin-left: 18px;}
+        #style211{background-image: url("../images/left2.png");width: 200px;height: 30px; margin-left: 18px;}
+        #style311{background-image: url("../images/left3.png");width: 200px;height: 30px; margin-left: 18px;}
+        #style111 div,#style211 div,#style311 div{color: white; padding-top: 9px;padding-left: 42px;}
+        #style111 div a,#style211 div a,#style311 div a{ color: white;text-decoration: none;}
+        #style112,#style212,#style312{border: 1px solid #95d6e4;height: 120px;width: 200px;margin-left: 18px;}
+        #style112 ul,#style212 ul,#style312 ul{list-style-type: none;list-style-image: url(../images/li.png);}
+        #style112 ul li,#style212 ul li,#style312 ul li{margin-top: 8px;}
+        #style112 ul li a,#style212 ul li a,#style312 ul li a{text-decoration: none;color:#033d61;}
+        #style112 ul li a:hover,#style212 ul li a:hover,#style312 ul li a:hover{text-decoration: underline;font-size: 13px;}
+        #container{width: 230px;background-color: #FFFFFF;height: 450px;     }

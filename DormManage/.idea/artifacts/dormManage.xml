@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="dormManage">
+    <output-path>$PROJECT_DIR$/classes/artifacts/dormManage</output-path>
+    <root id="root">
+      <element id="module-output" name="DormManage" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,4 @@
+@CHARSET "UTF-8";
+#displaybook{width: 100%;height: 230px;text-align: center;}
+#bookimage img{width: 200px;height: 220px;float: left;padding-left: 220px;}
+#bookinfo{width: 250px;height: 220px;background-color: red;float: left;margin-left: 20px;}

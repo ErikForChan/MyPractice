@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>左侧菜单</title>
+    <style>
+        .item{
+            width:150px;
+        }
+        .menu{
+            background-color:green;
+        }
+        .hide{
+            display:none;
+        }
+
+    </style>
+</head>
+<body style="margin:0 auto;width:980px">
+<div class="item">
+    <div id="m1" class="menu" onclick="hide_children()">菜单1</div>
+    <div class="content" onclick="">
+        <div>内容1</div>
+        <div>内容2</div>
+        <div>内容3</div>
+        <div>内容4</div>
+    </div>
+</div>
+<div class="item">
+    <div id="m2" class="menu" onclick="hide_children()">菜单2</div>
+    <div class="content" onclick="">
+        <div>内容1</div>
+        <div>内容2</div>
+        <div>内容3</div>
+        <div>内容4</div>
+    </div>
+</div>
+<div class="item">
+    <div id="m3" class="menu" onclick="hide_children()">菜单3</div>
+    <div class="content" onclick="">
+        <div>内容1</div>
+        <div>内容2</div>
+        <div>内容3</div>
+        <div>内容4</div>
+    </div>
+</div>
+<div class="item">
+    <div id="m4" class="menu" onclick="hide_children()">菜单4</div>
+    <div class="content" onclick="">
+        <div>内容1</div>
+        <div>内容2</div>
+        <div>内容3</div>
+        <div>内容4</div>
+    </div>
+</div>
+<script>
+    function hide_children(){
+        var obj = event.srcElement;  //event在ie中自带有，可以不用传入，其他少数浏览器需要传入
+        var itemList = obj.parentElement.parentElement.children;
+        for(var i=0;i<itemList.length;i++){
+            curItem = itemList[i];
+            contentObj = curItem.children[1];
+            if(contentObj != null){
+                contentObj.classList.add("hide");
+            }
+        }
+        var curContentObj = obj.nextElementSibling;
+        curContentObj.classList.remove("hide");
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .modal{
+            top:50%;
+            left: 50%;
+            position: fixed;
+            width: 500px;
+            height: 500px;
+            margin-left: -250px;
+            margin-top: -250px;
+            background-color: darkorchid;
+            z-index: 3;
+        }
+        .shaow{
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            opacity: 0.5;
+            background-color: black;
+            z-index: 2;
+        }
+
+        .hide{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="d1">test</div>
+    <input type="button" value="全选" onclick="checkALL(true)">
+    <input type="button" value="反选" onclick="reversCheck()">
+    <input type="button" value="取消" onclick="checkALL(false)">
+    <input type="button" value="模态框" onclick="getMoTai()">
+    <table border="1">
+        <thead>
+            <tr>
+                <td>选项</td>
+                <td>IP</td>
+                <td>端口</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><input type="checkbox"></td>
+                <td>10.1.1.1</td>
+                <td>5091</td>
+            </tr>
+         <tr>
+                <td><input type="checkbox"></td>
+                <td>10.1.1.2</td>
+                <td>5092</td>
+            </tr>
+         <tr>
+                <td><input type="checkbox"></td>
+                <td>10.1.1.3</td>
+                <td>5093</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="shaow hide"></div>
+    <div class="modal hide">
+        <input type="text" />
+        <input type="button" value="提交" />
+        <input type="button" value="取消" onclick="cancelMoTai()"/>
+    </div>
+    <script src="jquery.js"></script>
+    <script>
+        // obj1 = $("div");
+        // alert(obj1[0].innerText)
+        function  checkALL(check) {
+
+            $("td :checkbox").prop("checked",check);
+
+        }1
+        
+        function reversCheck() {
+            $("td :checkbox").each(
+                function () {
+                    var isCheck = $(this).prop("checked");
+                    if (isCheck) {
+                        $(this).prop("checked",false);
+                    }else{
+                        $(this).prop("checked",true);
+                    }
+                }
+            )
+        }
+        
+        function getMoTai() {
+            $(".modal,.shaow").removeClass("hide");
+        }
+
+        function cancelMoTai() {
+            $(".modal,.shaow").addClass("hide");
+        }
+    </script>
+</body>
+</html>
