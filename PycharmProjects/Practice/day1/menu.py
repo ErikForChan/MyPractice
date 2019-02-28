@@ -35,12 +35,12 @@ menu = {
     '上海':{
         '闵行':{
             "人民广场":{
-                '炸鸡店':{}
+                '炸鸡店':{},
             }
         },
         '闸北':{
             '火车站':{
-                '携程':{}
+                '携程':{},
             }
         },
         '浦东':{},
@@ -48,7 +48,18 @@ menu = {
     '山东':{},
 }
 
-while True:
-    print("请选择：")
-    for index,v in enumerate(menu):
+choice = 'START1'
+cur_menu = menu
+temp_menus = []
+while choice != 'Q' and choice != 'q':
+    menu_list = list(cur_menu.keys())
+    if (choice == 'B' or choice == 'b') and cur_menu != menu:
+        cur_menu = temp_menus.pop()
+    if choice.isdigit():
+        key_choosed = menu_list[int(choice)]
+        temp_menus.append(cur_menu)
+        cur_menu = cur_menu[key_choosed]
+    for index,v in enumerate(cur_menu):
         print(index,v)
+    choice = input("请选择进入[B返回上一层，Q退出] >>>")
+
