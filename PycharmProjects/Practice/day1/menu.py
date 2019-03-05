@@ -48,7 +48,7 @@ menu = {
     '山东':{},
 }
 
-choice = 'START1'
+choice = 'START'
 cur_menu = menu
 temp_menus = []
 while choice != 'Q' and choice != 'q':
