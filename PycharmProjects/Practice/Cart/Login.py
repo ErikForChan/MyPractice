@@ -14,24 +14,25 @@ def user_login():
         name = input("姓名：")
         pwd = input("密码：")
         if name in user_dict_db:
-            print(user_dict_db[name][0])
-            if user_dict_db[name][1] == 3:
+            # print(user_dict_db[name][0])
+            user_info = user_dict_db[name]
+            if user_info[1] == 3:
                 print("你的曾经连续输入错误超过三次！账户已被锁定！")
-                break;
+                return {name:False}
             else:
-                if user_dict_db[name][0] == int(pwd):
-                    if user_dict_db[name][1] !=0 :
-                        user_dict_db[name][1] = 0  # 登陆成功后，尝试登陆次数设为0
+                if user_info[0] == int(pwd):
+                    if user_info[1] !=0 :
+                        user_info[1] = 0  # 登陆成功后，尝试登陆次数设为0
                         json.dump(user_dict_db, open('user_db.txt', 'w'))
                     print(name + "，您已成功登录！")
-                    break  # 登陆成功后退出循环，进入下一个功能
+                    return {name: True}
                 else:
-                    user_dict_db[name][1] += 1  # 密码错误后，尝试登陆次数加1
+                    user_info[1] += 1  # 密码错误后，尝试登陆次数加1
                     print("密码错误")
                     print(user_dict_db)
                     json.dump(user_dict_db,open('user_db.txt','w'))
-                    if user_dict_db[name][1] == 3:
+                    if user_info[1] == 3:
                         print("你的密码输入错误超过三次！账户已被锁定！")
-                        break;
+                        return {name: False}
         else:
             print("该用户不存在")
