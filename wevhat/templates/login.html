@@ -5,16 +5,31 @@
     <title>Title</title>
 </head>
 <body>
-    <img src="https://login.wx.qq.com/qrcode/{{uuid}}}" style="height: 400px">
+    <img id="avatar" style="height: 400px;width: 400px;" src="https://login.weixin.qq.com/qrcode/{{uuid}}">
 
     <script src="/static/jquery.js"></script>
     <script>
+
+         $(function () {
+            check_login();
+        });
+
         function check_login() {
             $.ajax({
-                url:'',
+                url:'/check_login.html',
                 type:'get',
                 data:{},
-                dataTypr:‘’
+                dataType:'JSON',
+                success:function (arg) {
+                    if(arg.code == 408){
+                        check_login();
+                    }else if(arg.code == 201){
+                        $("#avatar").attr('src',arg.data);
+                        check_login();
+                    }else {
+                        location.href = '/index.html'
+                    }
+                }
             })
         }
     </script>
