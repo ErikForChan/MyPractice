@@ -1,5 +1,4 @@
-import os
-import sys
+
 moeny = input("请输入您拥有的金额： ")
 # goods列表用户存储所有的商品
 goods =[
