@@ -1,7 +1,27 @@
-
 username = 'root'
 password = '123456'
 
+
+import datetime
+
+
+def count_time(func):
+    def wrapper(*args,**kwargs):
+        start_time = datetime.datetime.now()
+        print(start_time)
+        func()
+        end_time = datetime.datetime.now()
+        print(end_time)
+        print(end_time-start_time)
+    return wrapper
+
+
+@count_time
+def main():
+    print('>>>>开始计算函数运行时间')
+    for i in range(1, 100):  # 可以是任意函数  ， 这里故意模拟函数的运行时间
+        for j in range(i):
+            print(j)
 
 # 用于验证用户信息的装饰器
 
@@ -38,4 +58,5 @@ def comment():
     print("Welcome to comment")
 
 
-login()
+# login()
+main()
