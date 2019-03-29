@@ -6,7 +6,7 @@
 
 import pymysql
 
-conn = pymysql.connect(host='192.168.31.96',user='root',passwd='123456',db='mydatabase')
+conn = pymysql.connect(host='192.168.0.196',user='root',passwd='123456',db='mydatabase')
 cur = conn.cursor()
 reCount = cur.execute("select * from class")
 conn.commit()
