@@ -2,6 +2,8 @@
 import scrapy
 from selenium import webdriver
 from jiandan.items import JiandanItem
+
+
 class Jiandan1Spider(scrapy.Spider):
     name = 'jiandan1'
     allowed_domains = ['jiandan.net']
