@@ -8,6 +8,9 @@ src_dic = {"date":date.today(), "oth":"123"}
 # print(src_dic)
 # data = pickle.dumps(src_dic)
 # print(type(src_dic))
-with open("pickle.txt", "w", encoding='UTF-8') as f:
-    f.write(pickle.dumps(src_dic))
-    # pickle.dump(list,f)
+# src_dic = src_dic.en/
+# pickle的目的不是为了看的
+with open("pickle.txt", "rb") as f:
+    # f.write(pickle.dumps(src_dic))
+    # pickle.dump(src_dic,f)
+    print(pickle.load(f))
