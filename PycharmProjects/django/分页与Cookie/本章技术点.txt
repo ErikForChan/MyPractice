@@ -1,0 +1,29 @@
+模板继承 
+{% extends 'master.html' %}
+{% block content %}{% endblock %}
+模板之导入 
+{% include "tag.html" %}
+自定义simple_tag
+.py:
+from django import template
+register = template.Library() # 名称不能改
+
+
+@register.simple_tag
+def tag1(a,b):
+    return a+b
+
+.html:
+{% load tag1 %}
+{% tag1 1 2 %}
+
+自定义filter:
+@register.filter
+def addstr(a,b):
+    return a+b
+{{ "ni"|addstr:"hao" }}
+
+自定义分页：
+Cookie：	
+
+

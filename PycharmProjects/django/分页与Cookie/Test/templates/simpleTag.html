@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{{ time|date:"Y-m-d H:i:s" }}
+{{ bio|truncatewords:"30" }}
+{{ name|lower }}
+{{ htmlstr|safe }} #htmlstr将以html的形式显示
+</body>
+</html>

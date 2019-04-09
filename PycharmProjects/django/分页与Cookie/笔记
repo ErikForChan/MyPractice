@@ -14,3 +14,17 @@ form表单验证:
 
 数据库回顾：
 路由系统：/index/ ->函数或者类， /index/(\d+) ->函数或者类,/index/(?P<nid>\d+) ->函数或者类
+
+Ajax:
+$.ajax({
+	url:"",
+	data:$(from對象).serilize(),
+	type:,
+	dataType:,
+	traditional:true,
+	success:function(){
+	
+	}
+
+})
+

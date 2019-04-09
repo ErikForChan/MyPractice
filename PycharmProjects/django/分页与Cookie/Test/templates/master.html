@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Master</title>
+    <style>
+        .pg-header{
+            height: 10px;
+            background-color: seashell;
+            color: green;
+        }
+    </style>
+    {% block css %}{% endblock %}
+</head>
+<body>
+    <div>Test</div>
+    <h1>公共页面</h1>
+    {% block content %}{% endblock %}
+
+    <script src=""></script>
+    {% block js %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>分页测试</title>
+    <style>
+        .pagination .page{
+            display: inline-block;
+            padding: 5px;
+            background-color: cyan;
+            margin: 5px;
+        }
+        .pagination .page.active{
+            background-color: brown;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+     <ul>
+        {% for item in li %}
+            {% include 'li.html' %}
+        {% endfor %}
+    </ul>
+
+     {#     基础cookie实现定制显示数据条数#}
+     <span>每页的条数：</span>
+    <select id="per_page_num" onchange="changePageSize(this)">
+        <option>10</option>
+        <option>20</option>
+        <option>30</option>
+    </select>
+
+    <div class="pagination">
+        {{ page_str }}
+    </div>
+</body>
+    <script src="/static/jquery-1.12.4.js"></script>
+    <script src="/static/jquery.cookie.js"></script>
+    <script>
+
+        $(function () {
+            var v = $.cookie('per_page_count')
+            $("#per_page_num").val(v)
+        });
+
+        function changePageSize(ths) {
+            var v = $(ths).val();
+            $.cookie('per_page_count',v)
+            location.reload()
+        }
+        {#$.cookie('k','v')#}
+    </script>
+</html>
