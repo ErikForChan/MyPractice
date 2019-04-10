@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10014986-9cd9-476c-9776-4d2e228f0c26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/commons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/jquery-1.12.4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/jquery.cookie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/li.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/master.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/simpleTag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/tag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/tp1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/tp2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/分页.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/自定义tag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templatetags/tag1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/pagination.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/爬虫/jiandan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practice/爬虫/jiandan/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app01/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app01/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../笔记" beforeDir="false" afterPath="$PROJECT_DIR$/../笔记" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../memcache_django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../memcache_django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../wevhat/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +19,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app01/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            <state>
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,6 +80,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,17 +88,21 @@
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="app01" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -182,16 +168,18 @@
       <workItem from="1554053731598" duration="31000" />
       <workItem from="1554111519850" duration="1683000" />
       <workItem from="1554114917361" duration="43000" />
+      <workItem from="1554783640330" duration="3138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23289000" />
+    <option name="totallyTimeSpent" value="26427000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15951742" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1609808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -334,8 +322,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app01/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        <state>
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
