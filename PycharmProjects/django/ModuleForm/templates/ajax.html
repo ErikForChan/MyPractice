@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <input type="button" value="Ajax2" onclick="Ajax2()">
+
+    <iframe src="http://www.baidu.com"></iframe>
+
+    <script>
+        function Ajax2() {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET","/index/",true)
+            xhr.send("name=root")
+        }
+        
+        $.ajax({
+            success:function () {
+                
+            }
+        })
+    </script>
+</body>
+</html>
