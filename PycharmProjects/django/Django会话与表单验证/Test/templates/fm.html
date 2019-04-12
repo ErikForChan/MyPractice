@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+{#    {{ obj.as_ul }}#}
+    {% crf_token %}
+    <p>{{ obj.user }}{{ obj.errors.user.0 }}</p>
+    <p>{{ obj.pwd }}{{ obj.errors.pwd.0 }}</p>
+    <p>{{ obj.email }}{{ obj.errors.email.0 }}</p>
+    <p><input type="submit" value="tijiao"></p>
+
+
+</body>
+</html>
