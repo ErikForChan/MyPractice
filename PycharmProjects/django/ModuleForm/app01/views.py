@@ -75,3 +75,9 @@ def user_edit(request,nid):
 def ajax(request):
 
     return render(request,"ajax.gtml")
+
+
+# 上传文件
+def upload(request):
+
+    return render(request,"upload.gtml")

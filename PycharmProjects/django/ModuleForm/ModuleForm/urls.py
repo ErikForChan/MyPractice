@@ -19,4 +19,5 @@ from app01 import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('index/', views.index),
+    path('upload/', views.upload),
 ]
