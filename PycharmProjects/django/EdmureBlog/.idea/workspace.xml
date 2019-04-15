@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="265035b9-1713-4ac9-aa02-83ad987c5ceb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wevhat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="EdmureBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -162,11 +161,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="286" />
-    <option name="y" value="44" />
-    <option name="width" value="1296" />
-    <option name="height" value="776" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="338" />
+    <option name="y" value="100" />
+    <option name="width" value="1230" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -209,7 +208,7 @@
     <property name="LayoutCode.rearrangeEntriesPython" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Practice" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -342,15 +341,15 @@
       <option name="presentableId" value="Default" />
       <updated>1483933014811</updated>
       <workItem from="1555150621309" duration="471000" />
-      <workItem from="1555295627925" duration="598000" />
+      <workItem from="1555295627925" duration="1274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1069000" />
+    <option name="totallyTimeSpent" value="1745000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
