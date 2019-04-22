@@ -20,7 +20,7 @@ v = '月消费'
 gb = data.groupby(
     by=[d1,d2]
 )['月消费（元）'].agg({
-    v:numpy.sum
+    '月消费':'sum'
 })
 
 d1size = gb.index.levels[0].size
@@ -34,9 +34,10 @@ colors = ['r','g','b']
 bsum = index*0.0
 for i in range(0,d2size):
     print(i)
+    print(gb.index.labels[1])
     subgb = gb[v][gb.index.labels[1]==i]
     bar = plt.bar(index*d2size+i,subgb,color = colors[i])
-    bsum+=subgb
+    # bsum+=subgb
 
 lIndex = numpy.arange(d1size)*d2size
 plt.xticks(lIndex + 3/2,gb.index.levels[0])

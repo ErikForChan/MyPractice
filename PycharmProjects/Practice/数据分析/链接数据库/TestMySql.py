@@ -12,15 +12,30 @@ conn = pymysql.connect(
     database="bookshop",
     charset="utf8"
 )
-cursor = conn.cursor()
-# 执行SQL语句
-sql = 'select * from book'
-cursor.execute(sql)
-ret = cursor.fetchall()
-for i in ret:
-    print(i)
-# 关闭光标对象
-cursor.close()
-# 关闭数据库连接
-conn.close()
+
+
+with conn:
+    cur=conn.cursor()
+    # cur.execute("ALTER TABLE Writers ADD COLUMN Intruction varchar(96) not null")
+    # cur.execute("ALTER TABLE Writers CHANGE COLUMN Intruction Description varchar(96) not null")
+    # cur.execute("UPDATE Writers set Description='Test'")
+
+    # cur.execute("CREATE TABLE IF NOT EXISTS Writers(Id INT PRIMARY KEY AUTO_INCREMENT,Name VARCHAR(25))")
+    # cur.execute("INSERT INTO Writers(Name) VALUES('Jack London')")
+    # cur.execute("INSERT INTO Writers(Name) VALUES('hONORE DE bALZAC')")
+    # cur.execute("INSERT INTO Writers(Name) VALUES('Lion Feuchtwanger')")
+    # cur.execute("INSERT INTO Writers(Name) VALUES('Emile Zola')")
+    # cur.execute("INSERT INTO Writers(Name) VALUES('Truman Capote')")
+
+# cursor = conn.cursor()
+# # 执行SQL语句
+# sql = 'select * from book'
+# cursor.execute(sql)
+# ret = cursor.fetchall()
+# for i in ret:
+#     print(i)
+# # 关闭光标对象
+# cursor.close()
+# # 关闭数据库连接
+# conn.close()
 
