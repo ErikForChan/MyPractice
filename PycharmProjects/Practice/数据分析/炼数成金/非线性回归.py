@@ -22,7 +22,7 @@ biases = tf.Variable(tf.zeros([1,10]))
 plus1 = tf.matmul(x,Weight1) + biases
 L1 = tf.nn.tanh(plus1)
 
-#定义神经网络中间层
+#定义神经网络输出层
 Weight2 = tf.Variable(tf.random_normal([10,1]))
 biases2 = tf.Variable(tf.zeros([1,1]))
 plus2 = tf.matmul(L1,Weight2) + biases2

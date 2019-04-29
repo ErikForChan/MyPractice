@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/数据分析/Matplotlib/次坐标.py" line="12" mnemonic="8" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="06107bf3-dd17-47a0-81f3-a9d7115a7eca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数据分析/分析技巧/data/data1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析/分析技巧/分组分许.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析/分析技巧/基本统计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析/链接数据库/TestMySql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析/链接数据库/data/data1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析/链接数据库/data/data2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析/链接数据库/data/data3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析/链接数据库/data/data4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/机器学习/算法/决策树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/炼数成金/手写数字的识别.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/炼数成金/拟合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据分析/网页数据爬取/htmlTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/网页数据爬取/htmlTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/炼数成金/非线性回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/炼数成金/非线性回归.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,127 +20,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Practice$SeleniumTest.coverage" NAME="SeleniumTest Coverage Results" MODIFIED="1552979291797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/基础" />
-    <SUITE FILE_PATH="coverage/Practice$__1_.coverage" NAME="直方图 (1) Coverage Results" MODIFIED="1555584143815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/数据可视化" />
     <SUITE FILE_PATH="coverage/Practice$5_1.coverage" NAME="5.1 Coverage Results" MODIFIED="1555580249317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/STUDY/数据分析/第01阶段-Python数据分析之数据可视化实战-(Python3.5)/第05章节-数据可视化/5.1" />
+    <SUITE FILE_PATH="coverage/Practice$s4.coverage" NAME="s4 Coverage Results" MODIFIED="1553656315803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/memcacheTest" />
+    <SUITE FILE_PATH="coverage/Practice$tensorBoard__2_.coverage" NAME="tensorBoard (2) Coverage Results" MODIFIED="1556179253913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/TensorFlow入门/Tensorboard1" />
+    <SUITE FILE_PATH="coverage/Practice$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1553703881752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4装饰器" />
+    <SUITE FILE_PATH="coverage/Practice$menu.coverage" NAME="menu Coverage Results" MODIFIED="1550826232237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/Practice$test.coverage" NAME="test Coverage Results" MODIFIED="1556000725365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/Tensorflow" />
+    <SUITE FILE_PATH="coverage/Practice$tf1.coverage" NAME="tf1 Coverage Results" MODIFIED="1556180284773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/TensorFlow入门" />
+    <SUITE FILE_PATH="coverage/Practice$1.coverage" NAME="案例1 Coverage Results" MODIFIED="1556448501680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/炼数成金" />
+    <SUITE FILE_PATH="coverage/Practice$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1553738021789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12MySql/mysql" />
+    <SUITE FILE_PATH="coverage/Practice$tensorboard.coverage" NAME="tensorboard Coverage Results" MODIFIED="1556181055992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/TensorFlow入门/tb1" />
+    <SUITE FILE_PATH="coverage/Practice$greenlet.coverage" NAME="greenlet协程 Coverage Results" MODIFIED="1548471516279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/Practice$pickle_test.coverage" NAME="pickle_test Coverage Results" MODIFIED="1553737808183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/序列化" />
+    <SUITE FILE_PATH="coverage/Practice$SeleniumTest.coverage" NAME="SeleniumTest Coverage Results" MODIFIED="1552979291797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/基础" />
+    <SUITE FILE_PATH="coverage/Practice$__1_.coverage" NAME="散点图 (1) Coverage Results" MODIFIED="1556076518538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/Matplotlib" />
+    <SUITE FILE_PATH="coverage/Practice$tensorflow11_build_network.coverage" NAME="tensorflow11_build_network Coverage Results" MODIFIED="1556092680934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/Tensorflow" />
     <SUITE FILE_PATH="coverage/Practice$PandasTest.coverage" NAME="PandasTest Coverage Results" MODIFIED="1555412348921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据机构" />
-    <SUITE FILE_PATH="coverage/Practice$.coverage" NAME="基本统计 Coverage Results" MODIFIED="1555674685232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/分析技巧" />
-    <SUITE FILE_PATH="coverage/Practice$htmlTest.coverage" NAME="htmlTest Coverage Results" MODIFIED="1555672557806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/网页数据爬取" />
+    <SUITE FILE_PATH="coverage/Practice$tensorboard1.coverage" NAME="tensorboard1 Coverage Results" MODIFIED="1556179563209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow/tb1" />
+    <SUITE FILE_PATH="coverage/Practice$numpy1.coverage" NAME="numpy1 Coverage Results" MODIFIED="1555895390435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/numpy&amp;pandas" />
+    <SUITE FILE_PATH="coverage/Practice$.coverage" NAME="决策树 Coverage Results" MODIFIED="1556534598421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/机器学习/算法" />
+    <SUITE FILE_PATH="coverage/Practice$htmlTest.coverage" NAME="htmlTest Coverage Results" MODIFIED="1555742843323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/网页数据爬取" />
     <SUITE FILE_PATH="coverage/Practice$Test.coverage" NAME="Test Coverage Results" MODIFIED="1555579773171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/数据可视化" />
     <SUITE FILE_PATH="coverage/Practice$system.coverage" NAME="system Coverage Results" MODIFIED="1548406814101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
+    <SUITE FILE_PATH="coverage/Practice$tensorboard1__1_.coverage" NAME="tensorboard1 (1) Coverage Results" MODIFIED="1556180538475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow" />
     <SUITE FILE_PATH="coverage/Practice$gevent.coverage" NAME="gevent协程 Coverage Results" MODIFIED="1548471576366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
-    <SUITE FILE_PATH="coverage/Practice$s4.coverage" NAME="s4 Coverage Results" MODIFIED="1553656315803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/memcacheTest" />
+    <SUITE FILE_PATH="coverage/Practice$tensorBoard.coverage" NAME="tensorBoard Coverage Results" MODIFIED="1556179441777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/TensorFlow入门/Tensorboard1" />
     <SUITE FILE_PATH="coverage/Practice$generator.coverage" NAME="generator Coverage Results" MODIFIED="1548469767466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review" />
-    <SUITE FILE_PATH="coverage/Practice$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1553703881752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4装饰器" />
-    <SUITE FILE_PATH="coverage/Practice$TestMySql.coverage" NAME="TestMySql Coverage Results" MODIFIED="1555674128408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/链接数据库" />
-    <SUITE FILE_PATH="coverage/Practice$menu.coverage" NAME="menu Coverage Results" MODIFIED="1550826232237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
-    <SUITE FILE_PATH="coverage/Practice$test.coverage" NAME="test Coverage Results" MODIFIED="1553698929499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/sp4" />
-    <SUITE FILE_PATH="coverage/Practice$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1553738021789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12MySql/mysql" />
+    <SUITE FILE_PATH="coverage/Practice$TestMySql.coverage" NAME="TestMySql Coverage Results" MODIFIED="1555726212730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/链接数据库" />
+    <SUITE FILE_PATH="coverage/Practice$tensorflow7_variable.coverage" NAME="tensorflow7_variable Coverage Results" MODIFIED="1555991319095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/Tensorflow" />
+    <SUITE FILE_PATH="coverage/Practice$3D.coverage" NAME="3D数据 Coverage Results" MODIFIED="1556080376717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/Matplotlib" />
+    <SUITE FILE_PATH="coverage/Practice$tensorflow6_session.coverage" NAME="tensorflow6_session Coverage Results" MODIFIED="1555987509451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/Tensorflow" />
+    <SUITE FILE_PATH="coverage/Practice$pandas1.coverage" NAME="pandas1 Coverage Results" MODIFIED="1555924751420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/numpy&amp;pandas" />
     <SUITE FILE_PATH="coverage/Practice$Login.coverage" NAME="Login Coverage Results" MODIFIED="1550825110897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
-    <SUITE FILE_PATH="coverage/Practice$greenlet.coverage" NAME="greenlet协程 Coverage Results" MODIFIED="1548471516279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
     <SUITE FILE_PATH="coverage/Practice$module_thread.coverage" NAME="module_thread Coverage Results" MODIFIED="1552983086674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9多线程/ThreadTest" />
-    <SUITE FILE_PATH="coverage/Practice$pickle_test.coverage" NAME="pickle_test Coverage Results" MODIFIED="1553737808183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/序列化" />
+    <SUITE FILE_PATH="coverage/Practice$tensorBoard__1_.coverage" NAME="tensorBoard (1) Coverage Results" MODIFIED="1556178436121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/TF修炼指南" />
+    <SUITE FILE_PATH="coverage/Practice$Tensorflow1.coverage" NAME="Tensorflow1 Coverage Results" MODIFIED="1556092671272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/Tensorflow" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/散点图.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/折线图.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <element signature="e#111#128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/饼图.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#111#128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/柱形图.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
-              <folding>
-                <element signature="e#111#138#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/直方图.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/网页数据爬取/htmlTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="11" />
-              <folding>
-                <element signature="e#111#140#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/链接数据库/TestMySql.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/数据分析/分析技巧/基本统计.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding>
-                <element signature="e#111#138#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/分析技巧/分组分许.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/分析技巧/data/data1.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -155,6 +72,7 @@
       <find>IMAGES_STORE</find>
       <find>\&lt;div class\=\&quot;item\&quot;\&gt;\n        \&lt;div id\=\&quot;m1\&quot; class\=\&quot;menu\&quot; onclick\=\&quot;\&quot;\&gt;菜单1\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容1\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容2\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容3\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容4\&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n \&lt;div class\=\&quot;item\&quot;\&gt;\n        \&lt;div id\=\&quot;m1\&quot; class\=\&quot;menu\&quot; onclick\=\&quot;\&quot;\&gt;菜单1\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容1\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容2\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容3\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容4\&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n \&lt;div class\=\&quot;item\&quot;\&gt;\n        \&lt;div id\=\&quot;m1\&quot; class\=\&quot;menu\&quot; onclick\=\&quot;\&quot;\&gt;菜单1\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容1\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容2\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容3\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容4\&lt;\/div\&gt;\n    \&lt;\/div\&gt; \&lt;div class\=\&quot;item\&quot;\&gt;\n        \&lt;div id\=\&quot;m1\&quot; class\=\&quot;menu\&quot; onclick\=\&quot;\&quot;\&gt;菜单1\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容1\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容2\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容3\&lt;\/div\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;内容4\&lt;\/div\&gt;\n    \&lt;\/div\&gt;</find>
       <find>open_spider</find>
+      <find>path/to/log</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -166,65 +84,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day1/Login.py" />
-        <option value="$PROJECT_DIR$/day1/menu.py" />
-        <option value="$PROJECT_DIR$/爬虫性能/并发.py" />
-        <option value="$PROJECT_DIR$/sp1/sp1/settings.py" />
-        <option value="$PROJECT_DIR$/sp1/sp1/spiders/baidu.py" />
-        <option value="$PROJECT_DIR$/爬虫/sp1/sp1/spiders/baidu.py" />
-        <option value="$PROJECT_DIR$/爬虫/sp1/sp1/spiders/xiaohuar.py" />
-        <option value="$PROJECT_DIR$/爬虫/sp2/sp2/spiders/zhihu.py" />
-        <option value="$PROJECT_DIR$/爬虫/sp2/sp2/spiders/chouti.py" />
-        <option value="$PROJECT_DIR$/爬虫/sp2/sp2/items.py" />
-        <option value="$PROJECT_DIR$/爬虫/sp2/sp2/spiders/jiandan.py" />
-        <option value="$PROJECT_DIR$/爬虫/sp2/sp2/rep.py" />
-        <option value="$PROJECT_DIR$/爬虫/自定义扩展/extends.py" />
-        <option value="$PROJECT_DIR$/爬虫/sp2/sp2/settings.py" />
-        <option value="$PROJECT_DIR$/爬虫/sp2/commands/crawelall.py" />
-        <option value="$PROJECT_DIR$/基础练习/字符串.py" />
-        <option value="$PROJECT_DIR$/爬虫/sp2/sp2/extends.py" />
-        <option value="$PROJECT_DIR$/爬虫/sp2/sp2/pipelines.py" />
-        <option value="$PROJECT_DIR$/爬虫/基础/SeleniumTest.py" />
-        <option value="$PROJECT_DIR$/爬虫/jiandan/jiandan/items.py" />
-        <option value="$PROJECT_DIR$/爬虫/jiandan/jiandan/settings.py" />
-        <option value="$PROJECT_DIR$/爬虫/jiandan/jiandan/pipelines.py" />
-        <option value="$PROJECT_DIR$/爬虫/jiandan/jiandan/spiders/jiandan1.py" />
-        <option value="$PROJECT_DIR$/day9多线程/ThreadTest/module_thread.py" />
-        <option value="$PROJECT_DIR$/基础练习/列表.py" />
-        <option value="$PROJECT_DIR$/基础练习/字典.py" />
-        <option value="$PROJECT_DIR$/基础练习/集合.py" />
-        <option value="$PROJECT_DIR$/爬虫/memcacheTest/s4.py" />
-        <option value="$PROJECT_DIR$/爬虫/redisTest/笔记.txt" />
-        <option value="$PROJECT_DIR$/爬虫/sp4/sp4/settings.py" />
-        <option value="$PROJECT_DIR$/爬虫/test.py" />
-        <option value="$PROJECT_DIR$/day4装饰器/decorator.py" />
-        <option value="$PROJECT_DIR$/序列化/pickle_test.py" />
-        <option value="$PROJECT_DIR$/day12MySql/mysql/test.py" />
-        <option value="$PROJECT_DIR$/数据机构/PandasTest.py" />
-        <option value="$PROJECT_DIR$/数据机构/匿名函数.py" />
-        <option value="$PROJECT_DIR$/数据机构/向量化计算.py" />
-        <option value="$PROJECT_DIR$/数据机构/处理数据/Test.py" />
-        <option value="$PROJECT_DIR$/数据分析/处理数据/Test.py" />
-        <option value="$PROJECT_DIR$/数据分析/数据可视化/Test.py" />
-        <option value="H:/STUDY/数据分析/第01阶段-Python数据分析之数据可视化实战-(Python3.5)/第05章节-数据可视化/5.1/5.1.py" />
-        <option value="$PROJECT_DIR$/数据分析/数据可视化/折线图.py" />
-        <option value="$PROJECT_DIR$/数据分析/数据可视化/饼图.py" />
-        <option value="$PROJECT_DIR$/数据分析/数据可视化/柱形图.py" />
-        <option value="$PROJECT_DIR$/数据分析/直方图.py" />
-        <option value="$PROJECT_DIR$/数据分析/数据可视化/直方图.py" />
-        <option value="$PROJECT_DIR$/数据分析/数据可视化/散点图.py" />
-        <option value="$PROJECT_DIR$/数据分析/网页数据爬取/htmlTest.py" />
-        <option value="$PROJECT_DIR$/数据分析/链接数据库/TestMySql.py" />
-        <option value="$PROJECT_DIR$/数据分析/分析技巧/分组分许.py" />
-        <option value="$PROJECT_DIR$/数据分析/分析技巧/基本统计.py" />
+        <option value="$PROJECT_DIR$/数据分析/分析技巧/交叉分析.py" />
+        <option value="$PROJECT_DIR$/数据分析/分析技巧/结构分析.py" />
+        <option value="$PROJECT_DIR$/数据分析/分析技巧/相关分析.py" />
+        <option value="$PROJECT_DIR$/数据分析/numpy&amp;pandas/笔记" />
+        <option value="$PROJECT_DIR$/数据分析/numpy&amp;pandas/numpy1.py" />
+        <option value="$PROJECT_DIR$/数据分析/numpy&amp;pandas/pandas1.py" />
+        <option value="$PROJECT_DIR$/数据分析/神经网络/Tensorflow1.py" />
+        <option value="$PROJECT_DIR$/数据分析/Tensorflow/Tensorflow1.py" />
+        <option value="$PROJECT_DIR$/数据分析/Tensorflow/tensorflow6_session.py" />
+        <option value="$PROJECT_DIR$/数据分析/Tensorflow/tensorflow7_variable.py" />
+        <option value="$PROJECT_DIR$/数据分析/Tensorflow/tensorflow8_feeds.py" />
+        <option value="$PROJECT_DIR$/数据分析/Tensorflow/tensorflow10_def_add_layer.py" />
+        <option value="$PROJECT_DIR$/数据分析/Tensorflow/test.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/基础.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/标注.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/能见度.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/柱状图.html" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/散点图.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/柱状图.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/等高线图.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/图片.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/3D数据.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/多合一显示.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/分格显示.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/图中图.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/次坐标.py" />
+        <option value="$PROJECT_DIR$/数据分析/Matplotlib/动画.py" />
+        <option value="$PROJECT_DIR$/数据分析/TF修炼指南/基本操作.py" />
+        <option value="$PROJECT_DIR$/数据分析/TF修炼指南/图像识别.py" />
+        <option value="$PROJECT_DIR$/数据分析/TensorFlow入门/tf1.py" />
+        <option value="$PROJECT_DIR$/数据分析/TensorFlow入门/tensorBoard.py" />
+        <option value="$PROJECT_DIR$/数据分析/TF修炼指南/mnist_inference.py" />
+        <option value="$PROJECT_DIR$/数据分析/TF修炼指南/tensorBoard.py" />
+        <option value="$PROJECT_DIR$/数据分析/TensorFlow入门/Tensorboard1/tensorBoard.py" />
+        <option value="$PROJECT_DIR$/TensorFlow/tb1/tensorboard1.py" />
+        <option value="$PROJECT_DIR$/TensorFlow/tensorboard1.py" />
+        <option value="$PROJECT_DIR$/数据分析/TensorFlow入门/tb1/tensorboard.py" />
+        <option value="$PROJECT_DIR$/数据分析/TensorFlow入门/逻辑回归/搭建模型.py" />
+        <option value="$PROJECT_DIR$/数据分析/TensorFlow入门/逻辑回归/准备数据.py" />
+        <option value="$PROJECT_DIR$/数据分析/TensorFlow入门/分布式/Demo1.py" />
+        <option value="$PROJECT_DIR$/数据分析/TensorFlow入门/分布式/图内复制.py" />
+        <option value="$PROJECT_DIR$/数据分析/TensorFlow入门/分布式/集群.py" />
+        <option value="$PROJECT_DIR$/数据分析/TensorFlow入门/分布式/图间复制.py" />
+        <option value="$PROJECT_DIR$/数据分析/炼数成金/Demo1.py" />
+        <option value="$PROJECT_DIR$/数据分析/炼数成金/Demo2.py" />
+        <option value="$PROJECT_DIR$/数据分析/炼数成金/案例1.py" />
+        <option value="$PROJECT_DIR$/数据分析/炼数成金/线性回归.py" />
+        <option value="$PROJECT_DIR$/数据分析/炼数成金/非线性回归.py" />
+        <option value="$PROJECT_DIR$/数据分析/炼数成金/手写数字的识别.py" />
+        <option value="$PROJECT_DIR$/数据分析/炼数成金/拟合.py" />
+        <option value="$PROJECT_DIR$/数据分析/机器学习/算法/决策树.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="406" />
-    <option name="y" value="215" />
-    <option name="width" value="1230" />
-    <option name="height" value="745" />
+    <option name="x" value="-15" />
+    <option name="y" value="-972" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -234,28 +152,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Practice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="Practice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="数据分析" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Practice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="数据分析" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="分析技巧" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -366,12 +262,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Practice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django/EdmureBlog" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -379,11 +286,11 @@
       <recent name="E:\GitProject\PycharmProjects\Practice\爬虫\redisTest" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitProject\PycharmProjects\Practice\数据分析\TensorFlow入门\tb1" />
+      <recent name="E:\GitProject\PycharmProjects\Practice\TensorFlow\tb1" />
+      <recent name="E:\GitProject\PycharmProjects\Practice\数据分析\Tensorflow" />
       <recent name="E:\GitProject\PycharmProjects\Practice\数据分析\分析技巧\data" />
-      <recent name="E:\GitProject\PycharmProjects\Practice\数据分析\链接数据库" />
-      <recent name="E:\GitProject\PycharmProjects\Practice\数据分析\数据可视化" />
-      <recent name="E:\GitProject\PycharmProjects\Practice\数据分析\数据可视化\data" />
-      <recent name="E:\GitProject\PycharmProjects\Practice\数据分析\处理数据\data" />
+      <recent name="E:\GitProject\PycharmProjects\Practice\数据分析\分析技巧" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -398,8 +305,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.基本统计">
-    <configuration name="直方图 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.决策树">
+    <configuration name="折线图" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -412,7 +319,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/数据可视化/直方图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/数据可视化/折线图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -421,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="饼图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="案例1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -429,12 +336,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/数据可视化" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/炼数成金" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/数据可视化/饼图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/炼数成金/案例1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -443,7 +350,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="基本统计" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="决策树" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/机器学习/算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/机器学习/算法/决策树.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="分组统计" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -456,7 +385,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/分析技巧/基本统计.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/分析技巧/分组统计.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -465,7 +394,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMySql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="准备数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -473,75 +402,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/链接数据库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/TensorFlow入门/逻辑回归" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/链接数据库/TestMySql.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="希尔排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Prcactice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/希尔排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="归并排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Prcactice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/归并排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="堆排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Prcactice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/堆排序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/TensorFlow入门/逻辑回归/准备数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -563,28 +429,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/快速排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="折线图" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/数据可视化" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/数据可视化/折线图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -615,7 +459,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="直方图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="线性回归" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -623,12 +467,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/炼数成金" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/直方图.py" />
+      <option name="SCRIPT_NAME" value="E:\GitProject\PycharmProjects\Practice\数据分析\炼数成金\非线性回归.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -659,6 +503,138 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="图中图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/Matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/Matplotlib/图中图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="次坐标" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/Matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/Matplotlib/次坐标.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多合一显示" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/Matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/Matplotlib/多合一显示.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="集群" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/TensorFlow入门/分布式" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/TensorFlow入门/分布式/集群.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="手写数字的识别" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/炼数成金" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/炼数成金/手写数字的识别.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="动画" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/Matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/Matplotlib/动画.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="红绿灯" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -681,6 +657,138 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="交叉分析" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/分析技巧" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/分析技巧/交叉分析.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="准备数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/TensorFlow入门/逻辑回归" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/TensorFlow入门/逻辑回归/准备数据.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="决策树" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/机器学习/算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/机器学习/算法/决策树.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="动画" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/Matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/Matplotlib/动画.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="基本统计" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/分析技巧" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/分析技巧/基本统计.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="基本操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/TF修炼指南" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/TF修炼指南/基本操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="归并排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Prcactice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -694,6 +802,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/归并排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="希尔排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Prcactice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/希尔排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="堆排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Prcactice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/堆排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -724,7 +874,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="htmlTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tensorboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -732,12 +882,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/网页数据爬取" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/TensorFlow入门/tb1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/网页数据爬取/htmlTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/TensorFlow入门/tb1/tensorboard.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -748,19 +898,16 @@
     </configuration>
     <list>
       <item itemvalue="Python.config" />
-      <item itemvalue="Python.饼图" />
-      <item itemvalue="Python.直方图 (1)" />
-      <item itemvalue="Python.htmlTest" />
-      <item itemvalue="Python.TestMySql" />
-      <item itemvalue="Python.基本统计" />
+      <item itemvalue="Python.折线图" />
+      <item itemvalue="Python.tensorboard" />
+      <item itemvalue="Python.案例1" />
+      <item itemvalue="Python.决策树" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.基本统计" />
-        <item itemvalue="Python.TestMySql" />
-        <item itemvalue="Python.htmlTest" />
-        <item itemvalue="Python.直方图 (1)" />
-        <item itemvalue="Python.饼图" />
+        <item itemvalue="Python.决策树" />
+        <item itemvalue="Python.案例1" />
+        <item itemvalue="Python.tensorboard" />
       </list>
     </recent_temporary>
   </component>
@@ -838,6 +985,25 @@
       <workItem from="1555575974585" duration="8858000" />
       <workItem from="1555585063943" duration="1220000" />
       <workItem from="1555670548333" duration="4981000" />
+      <workItem from="1555724936802" duration="5623000" />
+      <workItem from="1555741134476" duration="2334000" />
+      <workItem from="1555892391507" duration="5853000" />
+      <workItem from="1555917370336" duration="8927000" />
+      <workItem from="1555984730815" duration="8179000" />
+      <workItem from="1556000653084" duration="2787000" />
+      <workItem from="1556011902576" duration="1148000" />
+      <workItem from="1556073451345" duration="8851000" />
+      <workItem from="1556088442833" duration="4069000" />
+      <workItem from="1556167293929" duration="6789000" />
+      <workItem from="1556179154972" duration="1094000" />
+      <workItem from="1556180275413" duration="1025000" />
+      <workItem from="1556187144288" duration="1408000" />
+      <workItem from="1556246760086" duration="10325000" />
+      <workItem from="1556415945196" duration="3040000" />
+      <workItem from="1556428125770" duration="1106000" />
+      <workItem from="1556447157206" duration="4315000" />
+      <workItem from="1556501602310" duration="7988000" />
+      <workItem from="1556534345658" duration="657000" />
     </task>
     <servers />
   </component>
@@ -859,7 +1025,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114658000" />
+    <option name="totallyTimeSpent" value="200176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -871,14 +1037,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-1088" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15298508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.28611898" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31995663" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.82995737" weight="0.45553145" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29934925" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924962" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.46312365" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.17004265" side_tool="true" visible="true" weight="0.45553145" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" visible="true" weight="0.17857143" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11140725" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.28611898" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43167028" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.29284164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -893,247 +1082,98 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" visible="true" weight="0.2595949" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1855346" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.52758133" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34915772" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924962" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.36906585" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="SciView" order="4" visible="true" weight="0.06236674" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Users/10434/Anaconda3/Lib/site-packages/scrapy/utils/versions.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Tensorflow/tensorflow6_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        <state relative-caret-position="309">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Users/10434/Anaconda3/Lib/site-packages/scrapy_redis/scheduler.py" />
-    <entry file="file://D:/Users/10434/Anaconda3/Lib/site-packages/OpenSSL/__init__.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Tensorflow/tensorflow7_variable.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="84">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day4装饰器/generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5ATM/randomtest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5ATM/Calculator/MD.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5ATM/Calculator/CMain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4装饰器/decorator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7/sever.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Users/10434/Anaconda3/Lib/pickle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="1616" column="10" selection-start-line="1616" selection-start-column="10" selection-end-line="1616" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Users/10434/Anaconda3/Lib/typing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="1531" column="8" selection-start-line="1531" selection-start-column="8" selection-end-line="1531" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day6/stagtegy.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7/client.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day6/makefriends.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5ATM/Atm/db/user.text">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5ATM/Atm/core/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="30" />
-          <folding>
-            <element signature="e#143#239#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5ATM/Atm/core/transaction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5ATM/Atm/bin/atm.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5ATM/Atm/bin/tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/序列化/pickle.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础练习/列表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础练习/字典.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day12MySql/mysql/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/序列化/pickle_test.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Tensorflow/tensorflow8_feeds.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Tensorflow/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/基础.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
-            <element signature="e#134#159#0" expanded="true" />
+            <element signature="e#112#143#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day14/sockTest/connentTest.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/标注.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="167">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="e#111#142#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/处理数据/data/data1.csv" />
-    <entry file="file://$PROJECT_DIR$/数据分析/处理数据/Test.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/能见度.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="63" column="16" lean-forward="true" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        <state relative-caret-position="417">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#111#142#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/匿名函数.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/柱形图.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="241">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding>
+            <element signature="e#111#138#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/STUDY/数据分析/第01阶段-Python数据分析之数据可视化实战-(Python3.5)/第05章节-数据可视化/5.1/5.1.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/散点图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#112#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/折线图.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#111#128#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/data/data2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Users/10434/Anaconda3/Lib/site-packages/matplotlib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/data/data3.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/直方图.py" />
-    <entry file="file://$PROJECT_DIR$/数据分析/网页数据爬取/htmlTest" />
-    <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/data/data4.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/data/data1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/向量化计算.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1144,100 +1184,302 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/PandasTest.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/柱状图.html" />
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/散点图.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/柱形图.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+        <state relative-caret-position="350">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#111#138#0" expanded="true" />
+            <element signature="e#112#143#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Users/10434/Anaconda3/Lib/site-packages/pandas/io/parsers.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/柱状图.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="685" selection-start-line="685" selection-end-line="685" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/折线图.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="200">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
           <folding>
-            <element signature="e#111#128#0" expanded="true" />
+            <element signature="e#111#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/饼图.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/等高线图.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="18" />
           <folding>
-            <element signature="e#111#128#0" expanded="true" />
+            <element signature="e#111#142#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/网页数据爬取/htmlTest.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/图片.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="11" />
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="18" />
           <folding>
-            <element signature="e#111#140#0" expanded="true" />
+            <element signature="e#112#143#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/pymysql/__init__.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/3D数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2167">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#112#143#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/链接数据库/data/data1.csv">
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/多合一显示.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2575">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#112#143#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/链接数据库/TestMySql.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/分格显示.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="e#112#143#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/数据可视化/散点图.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/图中图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="e#112#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/次坐标.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#112#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Matplotlib/动画.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="33" />
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/分析技巧/data/data1.csv">
+    <entry file="file://$PROJECT_DIR$/数据分析/Tensorflow/tensorflow10_def_add_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Tensorflow/tensorflow11_build_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TF修炼指南/图像识别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TF修炼指南/基本操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="81" column="63" selection-start-line="81" selection-start-column="63" selection-end-line="81" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TF修炼指南/mnist_inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="6" selection-start-line="6" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TF修炼指南/tensorBoard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="e#112#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TensorFlow入门/tensorBoard.py" />
+    <entry file="file://$PROJECT_DIR$/数据分析/TensorFlow入门/Tensorboard1/tensorBoard.py" />
+    <entry file="file://$PROJECT_DIR$/TensorFlow/tb1/tensorboard1.py" />
+    <entry file="file://$PROJECT_DIR$/TensorFlow/tensorboard1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TensorFlow入门/tf1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TensorFlow入门/tb1/tensorboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/10434/Anaconda3/Lib/site-packages/tensorflow/python/ops/random_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/10434/Anaconda3/Lib/site-packages/tensorflow/python/training/optimizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="354" column="6" selection-start-line="354" selection-start-column="6" selection-end-line="354" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TensorFlow入门/逻辑回归/搭建模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="87" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
+          <folding>
+            <element signature="e#112#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TensorFlow入门/分布式/Demo1.py" />
+    <entry file="file://$PROJECT_DIR$/数据分析/TensorFlow入门/逻辑回归/准备数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="66" column="15" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
+          <folding>
+            <element signature="e#112#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TensorFlow入门/分布式/图内复制.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+          <folding>
+            <element signature="e#111#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TensorFlow入门/分布式/集群.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/TensorFlow入门/分布式/图间复制.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="78" column="55" selection-start-line="78" selection-start-column="55" selection-end-line="78" selection-end-column="55" />
+          <folding>
+            <element signature="e#112#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/炼数成金/变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/炼数成金/Fetch&amp;Feed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/炼数成金/案例1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="50" />
+          <folding>
+            <element signature="e#112#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/炼数成金/非线性回归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="e#112#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/炼数成金/手写数字的识别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/炼数成金/拟合.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/分析技巧/分组分许.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/分析技巧/基本统计.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/机器学习/算法/决策树.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#111#138#0" expanded="true" />
+            <element signature="e#112#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/numpy&amp;pandas/numpy1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Tensorflow/Tensorflow1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#111#134#0" expanded="true" />
           </folding>
         </state>
       </provider>
