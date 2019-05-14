@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我的文章</title>
+    <style>
+        .condition a{
+            display: inline-block;
+            padding: 3px 5px;
+            border: 1px solid #dddddd;
+            margin: 5px;
+            color: darkorchid;
+        }
+    </style>
+</head>
+<body>
+    <h1>查询条件</h1>
+    <div class="condition">
+        <div>
+          <a>全部</a>
+            {% for row in article_type_list %}
+                <a>{{row.caption}}</a>
+            {% endfor %}
+        </div>
+        <div>
+           <a>全部</a>
+            {% for row in category_list %}
+                <a>{{row.caption}}</a>
+            {% endfor %}
+        </div>
+
+         <h1>查询结果</h1>
+            <ul>
+                {% for row in result %}
+                    <li>{{ row.id}}--{{row.title}}</li>
+                {% endfor %}
+            </ul>
+    </div>
+</body>
+</html>
